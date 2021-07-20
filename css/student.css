@@ -1,0 +1,21 @@
+#photo{
+	float: right;
+	width: 20%;
+	margin: 0;
+	height: 200px;
+}
+
+.details{
+	padding: 1.2em;
+	margin: 0;
+}
+
+.info{
+	
+	max-width: 80%;
+}
+
+p:nth-child(even){
+	background-color: #f2f2f2;
+}
+
